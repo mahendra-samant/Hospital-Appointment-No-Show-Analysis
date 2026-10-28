@@ -101,7 +101,7 @@ Hospital-Appointment-No-Show-Analysis/
 Clone the repository and open the project directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hospital-Appointment-No-Show-Analysis.git
+git clone https://github.com/mahendra-samant/Hospital-Appointment-No-Show-Analysis.git
 cd Hospital-Appointment-No-Show-Analysis
 ```
 
